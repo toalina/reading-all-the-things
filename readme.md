@@ -14,6 +14,13 @@ Simple really. Further down is a list of books/articles to read. You will FORK t
 
 I'd suggest making each post a separate directory in the repo and then adding a `readme.md` file to that directory. This will make it easy to click on the directory and Github automatically exposes the readme file. 
 
+### Break things down
+
+Please do not try to set some unrealistic goal about reading all the things in one shot. You will fail and you will not finish. So, how do we make this better?
+Easy, read some, learning something, write down what you leaned and then read some more later. 
+
+Bounce around. Read from one book today and then from another tomorrow. I don't really care. But what I do care about is that you are reading and learning. 
+
 ## What to read
 
 The truth is ... there is so much to read that you can't read it all. But the good news is that we have read most of it already, so we can point you to the good books. 
