@@ -42,6 +42,18 @@ Use this list as a guide. Learn things, read more, learn more things.
 
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [ ] [How we work](http://markboulton.co.uk/journal/how-we-work)
+- [ ] [What really is Semantic HTML](http://www.anotheruiguy.com/ux-design-dev/_book/html5/semantics.html)
+- [ ] [Semantics and naming conventions](http://www.anotheruiguy.com/ux-design-dev/_book/html5/semantics-naming.html)
+- [ ] [Notes on ARIA use in HTML](http://www.anotheruiguy.com/ux-design-dev/_book/html5/aria.html)
+
+
+### Online decks
+
+- [ ] [HTML Semantics by Shay Howe](https://speakerdeck.com/shayhowe/html-semantics)
+
+### Videos 
+
+- [ ] [Marcy Sutton: JavaScript for Everybody](http://2014.jsconf.eu/speakers/marcy-sutton-javascript-for-everybody.html)
 
 
 
