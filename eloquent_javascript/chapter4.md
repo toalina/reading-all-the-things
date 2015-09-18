@@ -16,23 +16,23 @@ Methods:
 
 * length
 * toUpperCase
-*toLowerCase
-*join (glue between array elements)
+* toLowerCase
+* join (glue between array elements)
 
 Operators:
 
-*delete
-*in
+* delete
+* in
 
 Array methods:
 
-*push
-*pop
-*unshift
-*shift
-*indexOf
-*lastIndexOf
-*slice
-*concat
+* push
+* pop
+* unshift
+* shift
+* indexOf
+* lastIndexOf
+* slice
+* concat
 
 Global variables are present as a property of an object. In browsers, global scope objects are stored in the window variable. In order to access them, you must call on window to access. Objects in general can also serve as maps, associating values with names. The in operator can be used to find out whether an object contains a property with a given name. The same keyword can also be used in a for loop to loop over an object's properties. (i.e. (for (var name in object))  )
